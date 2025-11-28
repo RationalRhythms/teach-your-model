@@ -45,7 +45,7 @@ The model learns to categorize supplied paragraph into 5 main topics: technology
 
 ```bash
 # 1. Clone and setup
-git clone https://github.com/yourusername/teach-your-model
+git clone https://github.com/smritik-code/teach-your-model
 cd teach-your-model
 
 # 2. Install dependencies
