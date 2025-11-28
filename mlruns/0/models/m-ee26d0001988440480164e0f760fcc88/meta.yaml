@@ -1,0 +1,10 @@
+artifact_location: file:///home/smritik/Documents/active-learning-newsgroups/mlruns/0/models/m-ee26d0001988440480164e0f760fcc88/artifacts
+creation_timestamp: 1764316734240
+experiment_id: '0'
+last_updated_timestamp: 1764316735736
+model_id: m-ee26d0001988440480164e0f760fcc88
+model_type: null
+name: PAC_model
+source_run_id: fac363dc11064f8dafc3a226448664dd
+status: 2
+status_message: null

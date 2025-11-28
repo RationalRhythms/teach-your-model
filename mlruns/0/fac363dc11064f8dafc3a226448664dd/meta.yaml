@@ -1,0 +1,14 @@
+artifact_uri: file:///home/smritik/Documents/active-learning-newsgroups/mlruns/0/fac363dc11064f8dafc3a226448664dd/artifacts
+end_time: 1764316735737
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fac363dc11064f8dafc3a226448664dd
+run_name: thundering-lark-955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764316733981
+status: 3
+tags: []
+user_id: smritik
