@@ -25,6 +25,7 @@ The model learns to categorize supplied paragraph into 5 main topics: technology
 - **Passive Aggressive Classifier**: Online learning algorithm that updates weights incrementally, perfect for continuous learning from user feedback
 - **TF-IDF Vectorization**: Converts text into numerical features while emphasizing important words and downweighting common ones
 - **Scikit-learn**: Industry-standard machine learning library providing the foundation for all ML operations
+- **Initial Training Data**: Bootstrapped using the 20 Newsgroups dataset, mapped to the five target categories
 
 ### **MLOps & Experiment Tracking**  
 - **MLflow**: Complete MLOps platform for tracking experiments, parameters, metrics, and model versions
